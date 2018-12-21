@@ -1,0 +1,6 @@
+# Platform files
+.exercism
+
+# Python
+__pycache__/
+*.py[cod]
