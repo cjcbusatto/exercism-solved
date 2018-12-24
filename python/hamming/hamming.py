@@ -8,4 +8,3 @@ def distance(strand_a, strand_b):
             hamming_distance += 1
 
     return hamming_distance
-    
