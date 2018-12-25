@@ -4,7 +4,7 @@ My solutions for the exercises available at [exercism.io](https://exercism.io).
 
 ## Solutions
 
-- [Bash]()
+- [Bash](https://github.com/cjcbusatto/exercism-solved/tree/master/bash)
 - [Python](https://github.com/cjcbusatto/exercism-solved/tree/master/python)
 
 ## License
