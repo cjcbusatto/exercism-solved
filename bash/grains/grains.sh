@@ -13,7 +13,7 @@ then
     echo 1
     exit 0
 else
-    echo $((2**$(($1-1))))
+    printf "%llu\n" $((2**$(($1-1))))
     exit 0
 fi
 

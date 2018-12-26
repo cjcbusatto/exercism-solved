@@ -43,8 +43,7 @@
 }
 
 @test "64" {
-  skip
-  # overflow
+  #skip
   run bash grains.sh 64
   [ "$status" -eq 0 ]
   [ "$output" == "9223372036854775808" ]
