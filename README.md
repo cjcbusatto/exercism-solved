@@ -4,9 +4,9 @@ My solutions for the exercises available at [exercism.io](https://exercism.io).
 
 ## Solutions
 
-- [Bash](https://github.com/cjcbusatto/exercism-solved/tree/master/bash)
-- [Python](https://github.com/cjcbusatto/exercism-solved/tree/master/python)
-- [Javascript](https://github.com/cjcbusatto/exercism-solved/tree/master/javascript)
+- [Bash](https://github.com/cjcbusatto/exercism-solved/tree/master/bash) ![](https://img.shields.io/badge/completed-5%2F29-green.svg)
+- [Python](https://github.com/cjcbusatto/exercism-solved/tree/master/python) ![](https://img.shields.io/badge/completed-12%2F111-green.svg)
+- [Javascript](https://github.com/cjcbusatto/exercism-solved/tree/master/javascript) ![](https://img.shields.io/badge/completed-5%2F96-green.svg)
 
 ## License
 
